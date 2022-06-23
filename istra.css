@@ -1,0 +1,134 @@
+body{
+  margin:auto;
+  background-color: #D9CAB3;
+  font-family: 'Courier New', monospace;
+}
+.naslov1{
+  display: inline-block;
+  color: white;
+}
+.naslov2{
+  color: white;
+  position: relative;
+  bottom: 40px;
+}
+
+.div1{
+  height: 100px;
+  background-color: #212121;
+}
+
+/* POČETAK MENUA */
+.menu{
+  background-color: #6D9886;
+  height: 40px;
+}
+.s_pocetna{
+  position: relative;
+  top: 10px;
+  color: white;
+  display: inline-block;
+}
+.pocetna{
+  background-color: #53BF9D;
+  display: inline-block;
+  height: 40px;
+  width: 90px;
+}
+.gimp{
+  display: inline-block;
+  height: 40px;
+  width: 90px;
+}
+.s_gimp{
+  position: relative;
+  top: 10px;
+  color: white;
+  display: inline-block;
+}
+.gimp:hover{
+  background-color: #53BF9D;
+}
+.inkscape{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_inkscape{
+  position: relative;
+  top: 10px;
+  color: white;
+}
+.inkscape:hover{
+  background-color: #53BF9D;
+}
+.scribus{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_scribus{
+  position: relative;
+  top: 10px;
+  color: white;
+}
+.scribus:hover{
+  background-color: #53BF9D;
+}
+.blender{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_blender{
+  position: relative;
+  top: 10px;
+  color: white;
+}
+.blender:hover{
+  background-color: #53BF9D;
+}
+.reaper{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_reaper{
+  position:relative;
+  top: 10px;
+  color: white;
+}
+.reaper:hover{
+  background-color: #53BF9D;
+}
+/* KRAJ MENUA */
+
+.uvod{
+  background-color: #F6F6F6;
+  width: 600px;
+  height: 190px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 50px;
+  font-family: 'Courier New', monospace;
+}
+
+.paragrafuvod{
+  text-align: justify;
+  padding: 15px;
+}
+.naslov3{
+  text-align: center;
+  position: relative;
+  top: 15px;
+}
+.backgrounduvoda{
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 700px;
+  background-image: url(SLIKE/Kod.jpg);
+  position: relative;
+  top: 50px;
+}

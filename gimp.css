@@ -1,0 +1,149 @@
+body{
+  margin:auto;
+  background-color: #D9CAB3;
+  font-family: 'Courier New', monospace;
+}
+.naslov1{
+  display: inline-block;
+  color: white;
+}
+.naslov2{
+  color: white;
+  position: relative;
+  bottom: 40px;
+}
+
+.div1{
+  height: 100px;
+  background-color: #212121;
+}
+
+.menu{
+  background-color: #6D9886;
+  height: 40px;
+}
+.s_pocetna{
+  position: relative;
+  top: 10px;
+  color: white;
+  display: inline-block;
+}
+.pocetna{
+  display: inline-block;
+  height: 40px;
+  width: 90px;
+}
+.pocetna:hover{
+  background-color: #53BF9D;
+}
+.gimp{
+  background-color: #53BF9D;
+  display: inline-block;
+  height: 40px;
+  width: 90px;
+}
+.s_gimp{
+  position: relative;
+  top: 10px;
+  color: white;
+  display: inline-block;
+}
+.gimp:hover{
+  background-color: #53BF9D;
+}
+.inkscape{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_inkscape{
+  position: relative;
+  top: 10px;
+  color: white;
+}
+.inkscape:hover{
+  background-color: #53BF9D;
+}
+.scribus{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_scribus{
+  position: relative;
+  top: 10px;
+  color: white;
+}
+.scribus:hover{
+  background-color: #53BF9D;
+}
+.blender{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_blender{
+  position: relative;
+  top: 10px;
+  color: white;
+}
+.blender:hover{
+  background-color: #53BF9D;
+}
+.reaper{
+  height: 40px;
+  display: inline-block;
+  width: 90px;
+}
+.s_reaper{
+  position:relative;
+  top: 10px;
+  color: white;
+}
+.reaper:hover{
+  background-color: #53BF9D;
+}
+
+.tekstoradu{
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 800px;
+  background-color: #F6F6F6;
+  position: relative;
+  top: 50px;
+}
+.pozadina{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 50px;
+  width: 800px;
+  height: 900px;
+  background-image: url(SLIKE/KodGimp.jpg);
+}
+.gimpnaslov{
+  text-align: center;
+  padding: 15px;
+
+}
+.gimpparagraf{
+  position: relative;
+  bottom: 20px;
+  text-align: justify;
+  padding: 15px;
+}
+
+li{
+  text-align: justify;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.prijeposlije{
+  padding: 15px;
+}
+.prijee{
+  padding-right: 45px;
+}
